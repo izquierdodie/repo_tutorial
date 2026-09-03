@@ -1,4 +1,7 @@
+
 print("Hola mundo desde main!")
+
+
 
 nombre = input("Bienvenido/a, ingrese su nombre: ")
 
